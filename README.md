@@ -57,7 +57,7 @@
   </a>
   &nbsp
   <a href="https://www.instagram.com/_alejandro_829/" target="_blank">
-    <img src="./assets/logos/instagram.png" width="48px" alt="Instagram"/>
+    <img src="./assets/logos/Instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
 </div>
