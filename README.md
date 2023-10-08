@@ -6,6 +6,25 @@
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/Alejandrox27/count.svg" />
 </div>
+
+<h2></h2>
+
+<img align="left" src="./assets/left.gif" height="560px" alt="pixel city image">
+
+<h2 align="center"> About me! </h2><br>
+
+-   👨‍💻 I'm Alejandro Mejía(Alejandrox27)👋, I'm currently studying programming by myself with online courses. <br><br><br>
+
+-   🌳 I´m currently learning python to make desktop programs <br><br><br>
+
+-   🌊 2023 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript.<br><br><br>
+
+-   ☕ Interest: Science, Math and Coding. <br><br><br>
+
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Studying english, Reading. <br><br>
+
+<h2></h2>
+
 <div align="center">
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
