@@ -18,7 +18,7 @@
 
 -   💻 I´m currently learning python to make desktop programs <br><br><br>
 
--   🚀 2023 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript.<br><br><br>
+-   🚀 2024 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript.<br><br><br>
 
 -   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
 
