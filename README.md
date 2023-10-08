@@ -53,11 +53,11 @@
 <div align="center">
   <h2 align="center">✉️ Contact</h2>
   <a href="https://www.facebook.com/didier.mejia.50746" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+    <img src="./assets/logos/facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp
   <a href="https://www.instagram.com/_alejandro_829/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+    <img src="./assets/logos/instagram.png" width="48px" alt="Instagram"/>
   </a>
   &nbsp
 </div>
