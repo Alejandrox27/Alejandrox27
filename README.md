@@ -1,6 +1,6 @@
 <div id = "header" align = "center">
   <h1>Hi👋, I'm <strong>Alejandro Mejía</strong></h1>
-  <img src="./assets/giphy.gif"/>
+  <img src="./assets/banner_cat.gif"/>
 </div>
 
 <!--
