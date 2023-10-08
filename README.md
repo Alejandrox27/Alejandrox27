@@ -26,6 +26,18 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandrox27&custom_title=Alejandrox27's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Alejandrox27's Github Activity Graph" width="100%">
 </div>
+
+<div align="center">
+  <h2 align="center">✉️ Contact</h2>
+  <a href="https://www.facebook.com/didier.mejia.50746" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/_alejandro_829/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+  </a>
+  &nbsp
+</div>
 <!--
 **Alejandrox27/Alejandrox27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
