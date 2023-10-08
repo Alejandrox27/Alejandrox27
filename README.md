@@ -40,13 +40,14 @@
 <br>
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alejandrox27&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=Alejandrox27&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Alejandrox27&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alejandrox27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=Alejandrox27&theme=tokyonight" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Alejandrox27&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrox27&theme=tokyonight&langs_count=8&layout=compact"/>
 </div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandrox27&custom_title=Alejandrox27's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Alejandrox27's Github Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alejandrox27&custom_title=Alejandrox27's%20GitHub%20Activity%20Graph&bg_color=141321&color=4084B4&line=21724B&point=4084B4&area_color=3EEEC8&title_color=4084B4&area=true" alt="Alejandrox27's Github Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
