@@ -39,7 +39,7 @@
 </div>
 <br>
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> 🏆 My Github Stats</h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Alejandrox27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Alejandrox27&theme=tokyonight" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Alejandrox27&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="stats graph" />
