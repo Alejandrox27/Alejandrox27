@@ -62,7 +62,7 @@
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Juego_ahorcado" width="49%" alt="Juego ahorcado"/>
   </a>
   <a href="https://github.com/Alejandrox27/Sistema_vacacional_Coca-Cola" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Sistema_vacacional_Coca-Cola" height="50%" alt="Sistema vacacional Coca-Cola"/>
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Sistema_vacacional_Coca-Cola" width="49%" alt="Sistema vacacional Coca-Cola"/>
   </a>
 </div>
 
