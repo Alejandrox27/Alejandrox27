@@ -36,6 +36,28 @@
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=python,html" alt="skills actively learning logos">
+</div><br>
+
+<div align = "center">
+  <h2> <strong> 📚 Education </strong></h2>
+  <br>
+
+  <a href="https://www.codewars.com/users/Alx27" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  </a>
+
+  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/didieralejandro2" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.udemy.com/user/didier-mejia-3/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+  
 </div>
 <br>
 <div align="center">
