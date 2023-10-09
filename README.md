@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
   </a>
 
-  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
+  <a href="https://www.coursera.org/user/1b3d7dbe978936a0d2c6341c2f02d030" target="_blank">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
   </a>
 
