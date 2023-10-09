@@ -51,6 +51,22 @@
 </div>
 
 <div align="center">
+  <h2 align="center">👨‍💻 Top Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/Alejandrox27/Gym-program" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Gym-program" width="49%" alt="Gym-program"/>
+  </a>
+  <a href="https://github.com/Alejandrox27/Reproductor-de-musica" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Reproductor-de-musica" width="49%" alt="Reproductor-de-musica"/>
+  </a>
+  <a href="https://github.com/Alejandrox27/Juego_ahorcado" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Juego_ahorcado" width="49%" alt="Juego ahorcado"/>
+  </a>
+  <a href="https://github.com/Alejandrox27/Sistema_vacacional_Coca-Cola" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Sistema_vacacional_Coca-Cola" height="50%" alt="Sistema vacacional Coca-Cola"/>
+  </a>
+</div>
+
+<div align="center">
   <h2 align="center">✉️ Contact</h2>
   <a href="https://www.facebook.com/didier.mejia.50746" target="_blank">
     <img src="./assets/logos/facebook.png" width="48px" alt="Facebook"/>
