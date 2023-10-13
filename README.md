@@ -90,6 +90,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Sistema_vacacional_Coca-Cola&theme=tokyonight" width="49%" alt="Sistema vacacional Coca-Cola"/>
   </a>
 </div>
+<div align="center" border-radius="20px">
+  <img src="./assets/alan_turing.PNG"/>
+</div>
 
 <div align="center">
   <h2 align="center">✉️ Contact</h2>
