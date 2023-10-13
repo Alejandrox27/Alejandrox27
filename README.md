@@ -91,7 +91,7 @@
   </a>
 </div>
 <div align="center" border-radius="20px">
-  <img src="./assets/alan_turing.PNG"/>
+  <img src="./assets/AlanTuring.PNG"/>
 </div>
 
 <div align="center">
