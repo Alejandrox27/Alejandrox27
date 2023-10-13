@@ -63,9 +63,12 @@
 <div align="center">
   <h2> 🏆 My Github Stats</h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Alejandrox27&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=Alejandrox27&theme=tokyonight" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Alejandrox27&theme=tokyonight&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrox27&theme=tokyonight&langs_count=8&layout=compact"/>
+
+  <img src="https://streak-stats.demolab.com?user=Alejandrox27&theme=tokyonight" alt="streaks graph" width = "50%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandrox27&show_icons=true&theme=tokyonight" alt="stats graph" width ="50%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandrox27&theme=tokyonight&langs_count=8&layout=compact" width = "50%"/>
 </div> <br>
 
 <div align="center">
@@ -73,18 +76,18 @@
 </div>
 
 <div align="center">
-  <h2 align="center">👨‍💻 Top Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2 align="center">👨‍💻 Top Projects</h2><br>
   <a href="https://github.com/Alejandrox27/Gym-program" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Gym-program" width="49%" alt="Gym-program"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Gym-program&theme=tokyonight" width="49%" alt="Gym-program"/>
   </a>
   <a href="https://github.com/Alejandrox27/Reproductor-de-musica" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Reproductor-de-musica" width="49%" alt="Reproductor-de-musica"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Reproductor-de-musica&theme=tokyonight" width="49%" alt="Reproductor-de-musica"/>
   </a>
   <a href="https://github.com/Alejandrox27/Juego_ahorcado" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Juego_ahorcado" width="49%" alt="Juego ahorcado"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Juego_ahorcado&theme=tokyonight" width="49%" alt="Juego ahorcado"/>
   </a>
   <a href="https://github.com/Alejandrox27/Sistema_vacacional_Coca-Cola" target="_blank">
-    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=Alejandrox27&theme=tokyonight&repo=Sistema_vacacional_Coca-Cola" width="49%" alt="Sistema vacacional Coca-Cola"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Sistema_vacacional_Coca-Cola&theme=tokyonight" width="49%" alt="Sistema vacacional Coca-Cola"/>
   </a>
 </div>
 
