@@ -78,22 +78,20 @@
 <div align="center">
   <h2 align="center">👨‍💻 Top Projects</h2><br>
   <a href="https://github.com/Alejandrox27/Nerfliz" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Nerfliz&theme=tokyonight" width="49%" alt="Nerfliz"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Nerfliz&theme=tokyonight" width="49%" heigth="50px" alt="Nerfliz"/>
   </a>
-  <a href="https://github.com/Alejandrox27/Gym-program" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Gym-program&theme=tokyonight" width="49%" alt="Gym-program"/>
-  </a>
+  
   <a href="https://github.com/Alejandrox27/Reproductor-de-musica" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Reproductor-de-musica&theme=tokyonight" width="49%" alt="Reproductor-de-musica"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Reproductor-de-musica&theme=tokyonight" width="49%" heigth="50px" alt="Reproductor-de-musica"/>
   </a>
   <a href="https://github.com/Alejandrox27/Juego_ahorcado" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Juego_ahorcado&theme=tokyonight" width="49%" alt="Juego ahorcado"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Juego_ahorcado&theme=tokyonight" width="49%" heigth="50px" alt="Juego ahorcado"/>
   </a>
   <a href="https://github.com/Alejandrox27/Sistema_vacacional_Coca-Cola" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Sistema_vacacional_Coca-Cola&theme=tokyonight" width="49%" alt="Sistema vacacional Coca-Cola"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Sistema_vacacional_Coca-Cola&theme=tokyonight" width="49%" heigth="50px" alt="Sistema vacacional Coca-Cola"/>
   </a>
   <a href="https://github.com/Alejandrox27/Calculator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Calculator&theme=tokyonight" width="49%" alt="Calculator"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Calculator&theme=tokyonight" width="49%" heigth="50px" alt="Calculator"/>
   </a>
 </div>
 <div align="center" border-radius="20px">
