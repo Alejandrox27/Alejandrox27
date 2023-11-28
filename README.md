@@ -83,6 +83,9 @@
   <a href="https://github.com/Alejandrox27/Gym-program-" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Gym-program-&theme=tokyonight" width="49%" heigth="50px"heigth="50px" alt="Gym program"/>
   </a>
+  <a href="https://github.com/Alejandrox27/users_api_crud" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=users_api_crud&theme=tokyonight" width="49%" heigth="50px"heigth="50px" alt="Users api crud"/>
+  </a>
   <a href="https://github.com/Alejandrox27/Reproductor-de-musica" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Reproductor-de-musica&theme=tokyonight" width="49%" heigth="50px" alt="Reproductor-de-musica"/>
   </a>
