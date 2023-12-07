@@ -31,11 +31,11 @@
 <div align="center">
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=github,css,postgresql,python,qt,fastapi,sqlite,vscode" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=github,css,postgresql,mysql,mongodb,python,qt,fastapi,sqlite,vscode" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=python,html,mysql" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=python,html,css,mongodb,git,github" alt="skills actively learning logos">
 </div><br>
 
 <div align = "center">
