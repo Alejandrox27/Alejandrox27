@@ -1,5 +1,6 @@
 <div id = "header" align = "center">
   <h1>Hi👋, I'm <strong>Alejandro Mejía</strong></h1>
+  <h2>🧑🏻‍💻 Coding is my passion ❤️</h2>
   <img src="./assets/banner_cat.gif"/>
 </div>
 
@@ -16,9 +17,9 @@
 
 -   👨‍💻 I'm Alejandro Mejía(Alejandrox27)👋, I'm currently studying programming by myself with online courses. <br><br><br>
 
--   💻 I´m currently learning python to make desktop programs <br><br><br>
+-   💻 I´m currently learning python to make web apps with HTML5 <br><br><br>
 
--   🚀 2024 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript.<br><br><br>
+-   🚀 2024 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript and it's frameworks.<br><br><br>
 
 -   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
 
