@@ -78,6 +78,9 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Top Projects</h2><br>
+  <a href="https://github.com/Alejandrox27/Students_api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Students_api&theme=tokyonight" width="49%" heigth="50px" alt="Students program"/>
+  </a>
   <a href="https://github.com/Alejandrox27/contacts-list" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=contacts-list&theme=tokyonight" width="49%" heigth="50px" alt="contacts list"/>
   </a>
