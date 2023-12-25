@@ -36,7 +36,7 @@
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="skills actively learning logos">
 </div><br>
 
 <div align = "center">
