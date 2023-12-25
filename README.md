@@ -1,6 +1,6 @@
 <div id = "header" align = "center">
   <h1>Hi👋, I'm <strong>Alejandro Mejía</strong></h1>
-  <h2>🧑🏻‍💻 Coding is my passion ❤️</h2>
+  <h2>"discipline and perseverance are part of my daily life." 🧑🏻‍💻</h2>
   <img src="./assets/banner_cat.gif"/>
 </div>
 
