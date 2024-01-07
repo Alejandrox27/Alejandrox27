@@ -32,7 +32,7 @@
 <div align="center">
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=replit,github,html,css,bootstrap,postgresql,mysql,mongodb,python,qt,fastapi,vscode,sqlite" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=replit,github,html,css,bootstrap,postgresql,mysql,mongodb,python,qt,fastapi,vscode" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
