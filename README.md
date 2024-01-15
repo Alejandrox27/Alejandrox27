@@ -78,6 +78,9 @@
 
 <div align="center">
   <h2 align="center">👨‍💻 Top Projects</h2><br>
+  <a href="https://github.com/Alejandrox27/short-url" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=short-url&theme=tokyonight" width="49%" heigth="50px" alt="URL Shortener"/>
+  </a>
   <a href="https://github.com/Alejandrox27/Fortune-wheel" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Fortune-wheel&theme=tokyonight" width="49%" heigth="50px" alt="Fortune Wheel"/>
   </a>
@@ -98,9 +101,6 @@
   </a>
   <a href="https://github.com/Alejandrox27/users_api_crud" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=users_api_crud&theme=tokyonight" width="49%" heigth="50px"heigth="50px" alt="Users api crud"/>
-  </a>
-  <a href="https://github.com/Alejandrox27/Reproductor-de-musica" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandrox27&repo=Reproductor-de-musica&theme=tokyonight" width="49%" heigth="50px" alt="Reproductor-de-musica"/>
   </a>
 </div>
 <div align="center" border-radius="20px">
