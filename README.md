@@ -15,11 +15,11 @@
 
 <h2 align="center"> About me! </h2><br>
 
--   👨‍💻 I'm Alejandro Mejía(Alejandrox27)👋, I'm currently studying programming by myself with online courses. <br><br><br>
+-   👨‍💻 I'm Alejandro Mejía(Alejandrox27)👋, I'm currently studying programming by myself with online courses and the National Univertity of Colombia. <br><br><br>
 
--   💻 I´m currently learning python to make web apps with HTML5 <br><br><br>
+-   💻 I'm currently studying python for machine learning <br><br><br>
 
--   🚀 2024 Goals: Learn C++, build mobile apps and expand my knowledge in HTML, CSS, JavaScript and it's frameworks.<br><br><br>
+-   🚀 2024 Goals: Learn C++ and be an expert in machine learning and AI<br><br><br>
 
 -   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
 
