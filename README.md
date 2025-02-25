@@ -23,20 +23,20 @@
 
 -   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
 
--   ☕ Interest: Science, Math and Coding. <br><br><br>
+-   ☕ Interest: Math, AI and Coding. <br><br><br>
 
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Studying english, Reading. <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Reading, coding. <br><br>
 
 <h2></h2>
 
 <div align="center">
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=replit,github,html,css,bootstrap,postgresql,mysql,firebase,mongodb,python,qt,fastapi,vscode,js,nodejs,express,vite" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=replit,github,html,css,postgresql,mysql,mongodb,python,fastapi,flask,vscode,js,nodejs,express,vite" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,graphql,tailwind" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=python" alt="skills actively learning logos">
 </div><br>
 
 <div align = "center">
