@@ -4,11 +4,6 @@
   <img src="./assets/banner_cat.gif"/>
 </div>
 
-<div align="center">
-  <p><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/Alejandrox27/count.svg" />
-</div>
-
 <h2></h2>
 
 <img align="left" src="./assets/left.gif" height="650px" alt="left-image">
