@@ -26,7 +26,7 @@
 
 -   ☕ Interest: Math, AI and skateboarding <br><br><br>
 
--   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Reading, coding. <br><br>
+-   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: skate, tennis, coding. <br><br>
 
 <h2></h2>
 
