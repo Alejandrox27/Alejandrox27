@@ -12,9 +12,15 @@
 
 -   👨‍💻 I'm Alejandro Mejía(Alejandrox27)👋, I'm currently studying programming by myself with online courses and the National Univertity of Colombia. <br><br><br>
 
--   💻 I'm currently studying python for machine learning <br><br><br>
+-   💻 I'm currently studying java and spingboot <br><br><br>
 
--   🚀 2024 Goals: Learn C++ and be an expert in machine learning and AI<br><br><br>
+-   🚀 2026 Goals: Master the Spring Ecosystem: Spring Boot, Spring Security, and JWT.
+
+Database Management: Proficient use of MySQL (Relational) and MongoDB (NoSQL).
+
+Quality Assurance: Master unit testing with JUnit and Mockito.
+
+Career Milestone: Secure a developer role during my 4th semester to gain hands-on experience and keep leveling up.<br><br><br>
 
 -   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
 
