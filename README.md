@@ -14,17 +14,17 @@
 
 -   💻 I'm currently studying java and spingboot <br><br><br>
 
--   🚀 2026 Goals: Master the Spring Ecosystem: Spring Boot, Spring Security, and JWT.
+-   🚀 2026 Goals: * Master the Spring Ecosystem: Spring Boot, Spring Security, and JWT.
 
-Database Management: Proficient use of MySQL (Relational) and MongoDB (NoSQL).
+*Database Management: Proficient use of MySQL (Relational) and MongoDB (NoSQL).
 
-Quality Assurance: Master unit testing with JUnit and Mockito.
+*Quality Assurance: Master unit testing with JUnit and Mockito.
 
-Career Milestone: Secure a developer role during my 4th semester to gain hands-on experience and keep leveling up.<br><br><br>
+*Career Milestone: Secure a developer role during my 4th semester to gain hands-on experience and keep leveling up.<br><br><br>
 
--   📧 How to reach me **alej.mejia89@gmail.com**<br><br><br>
+-   📧 How to reach me **didieralejandromejia82@gmail.com**<br><br><br>
 
--   ☕ Interest: Math, AI and Coding. <br><br><br>
+-   ☕ Interest: Math, AI and skateboarding <br><br><br>
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Reading, coding. <br><br>
 
