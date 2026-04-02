@@ -24,7 +24,7 @@
 
 -   📧 How to reach me **didieralejandromejia82@gmail.com**<br><br><br>
 
--   ☕ Interest: Math, AI and skateboarding <br><br><br>
+-   ☕ Interest: Math, DevOps/SRE and skateboarding <br><br><br>
 
 -   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: skate, tennis, coding. <br><br>
 
