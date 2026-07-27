@@ -33,11 +33,11 @@
 <div align="center">
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,replit,git,github,mysql,vscode,idea" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=java,replit,git,github,mysql,postgresql,vscode,idea" alt="skills logos" />
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=spring" alt="skills actively learning logos">
+  <img src="https://skillicons.dev/icons?i=spring,docker" alt="skills actively learning logos">
 </div><br>
 
 <div align = "center">
